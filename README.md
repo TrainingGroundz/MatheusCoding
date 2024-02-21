@@ -1,13 +1,13 @@
 ### Olá, eu sou o Matheus! 👋
 
-Bem-vindo ao meu perfil do GitHub. Fique à vontade para explorar meus projetos e contribuições. 😊
+Bem-vindo ao meu campo de treinamento 🪖🫡🎖️. Sinta-se à vontade para explorar meus projetos e contribuições neste espaço dedicado ao aprendizado e prática de programação. 😊
 
 
 <a href="https://github.com/MatheusCoding/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusCoding&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TrainingGroundz&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/MatheusCoding/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusCoding&layout=donut&theme=dark#gh-dark-mode-only&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrainingGroundz&layout=donut&theme=dark#gh-dark-mode-only&langs_count=8&card_width=320" />
 </a>
 
 
