@@ -1,6 +1,6 @@
-### Olá, eu sou o Matheus! 👋
+### Hello, I'm Matheus! 👋
 
-Bem-vindo ao meu campo de treinamento 🪖🫡🎖️. Sinta-se à vontade para explorar meus projetos e contribuições neste espaço dedicado ao aprendizado e prática de programação. 😊
+Welcome to my training ground 🪖🫡🎖️. Feel free to explore my projects and contributions in this space dedicated to learning and programming practice. 😊
 
 
 <a href="https://github.com/MatheusCoding/github-readme-stats#gh-dark-mode-only">
@@ -11,8 +11,8 @@ Bem-vindo ao meu campo de treinamento 🪖🫡🎖️. Sinta-se à vontade para 
 </a>
 
 
-### Contato
+### Contact
 
-Você pode me encontrar no Discord como **mathe.us**. 😄
+You can find me on Discord as **mathe.us**. 😄
 
 [![Discord](https://img.shields.io/badge/Discord-mathe.us-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/313400012199690253)
